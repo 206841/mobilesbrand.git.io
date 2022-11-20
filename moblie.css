@@ -1,0 +1,118 @@
+.img{
+    height: 150vh;
+    width: 150vw;
+    background-image: url("https://as2.ftcdn.net/v2/jpg/02/34/02/29/1000_F_234022949_PRxvgogCFNHPmAbzB5U74wDyumRozrOF.jpg");
+    background-size: cover;
+}
+.heading{
+    text-align: left;
+    text-transform: uppercase;
+    color: aliceblue;
+    padding: 8px;
+}
+.layout{
+    background-color: azure;
+    color: black;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 1px;
+    margin: 6px;
+}
+.head1{
+    color: #192a56;
+    font-weight: bold;
+    font-size: 20px;
+}
+.para1{
+    color: black;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.bimg{
+    height: 100px;
+    width: 100px;
+    float: right;
+}
+.bimg:hover{
+    transform: scale(2.0);
+}
+.head2{
+    color: #192a56;
+    font-weight: bold;
+    font-size: 20px;
+}
+.para2{
+    color: black;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.bimg1{
+    height: 100px;
+    width: 100px;
+    float: right;
+}
+.bimg1:hover{
+    transform: scale(2.0);
+}
+.head3{
+    color: #192a56;
+    font-weight: bold;
+    font-size: 20px;
+}
+.head3{
+    color: #192a56;
+    font-weight: bold;
+    font-size: 20px;
+}
+.para3{
+    color: black;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.bimg2{
+    height: 100px;
+    width: 100px;
+    float: right;
+} 
+.bimg2:hover{
+    transform: scale(2.0);
+}
+.head4{
+    color: #192a56;
+    font-weight: bold;
+    font-weight: bold;
+    font-size: 20px;
+}
+.para4{
+    color: black;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.bimg3{
+    height: 100px;
+    width: 100px;
+    float: right;
+}
+.bimg3:hover{
+    transform: scale(2.0);
+}
+.head5{
+    color: #192a56;
+    font-weight: bold;
+    font-size: 20px;
+}
+.para5{
+    color: black;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.bimg4{
+    height: 100px;
+    width: 100px;
+    float: right;
+}
+.bimg4:hover{
+    transform: scale(2.0);
+}

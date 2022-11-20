@@ -1,0 +1,33 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/red-black-brush-stroke-banner-background-perfect-canva_1361-3597.jpg?size=626&ext=jpg&ga=GA1.2.374334814.1668741552&semt=sph");
+    background-size: cover;
+    height: 200vh;
+}
+.headfirst{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 600px;
+    padding: 25px;
+}
+.bgcardcarousel{
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 35px;
+}
+.cardcon{
+    padding: 25px;
+}
+.headsecond{
+    color: blue ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.paraline{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+
+}
